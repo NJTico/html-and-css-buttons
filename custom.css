@@ -1,0 +1,151 @@
+body {
+  background-color: #000000;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23220000' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23440000' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23660000' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23880000' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23A00' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+.para1 { 
+background-color: #DDDDDD;
+border-radius: 43px;
+color: #888888;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 12pt;
+padding: 10px;
+text-align: center;
+width: 75%;
+height: 25px;
+}
+
+/* buttons */
+.butt1:hover {
+  background-color: green;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 10px;
+  margin-bottom: 4px;
+  margin-right: 1px;
+  padding: 14px 40px;
+  
+  
+}
+.butt2:hover {
+  background-color: blue;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 11px;
+  margin-bottom: 4px;
+  margin-right: 2px;
+  padding: 14px 40px;
+}
+.butt3:hover {
+  background-color: red;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 12px;
+  margin-bottom: 4px;
+  margin-right: 3px;
+  padding: 14px 40px;
+}
+.butt4:hover {
+  background-color: gray;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 13px;
+  margin-bottom: 4px;
+  margin-right: 4px;
+  padding: 14px 40px;
+}
+.butt5:hover {
+  background-color: black;
+  /* border: none; */
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 14px;
+  margin-bottom: 4px;
+  margin-right: 5px;
+  padding: 14px 40px;
+}
+.butt6:hover {
+  background-color: yellow;
+  border: none;
+  border-radius: 12px;
+  color: black;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 15px;
+  margin-bottom: 4px;
+  margin-right: 6px;
+  padding: 14px 40px;
+}
+.butt7:hover {
+  background-color: orange;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 16px;
+  margin-bottom: 4px;
+  margin-right: 7px;
+  padding: 14px 40px;
+}
+.butt8:hover {
+  background-color: pink;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 17px;
+  margin-bottom: 4px;
+  margin-right: 8px;
+  padding: 14px 40px;
+}
+.butt9:hover {
+  background-color: purple;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 18px;
+  margin-bottom: 4px;
+  margin-right: 9px;
+  padding: 14px 40px;
+}
+.butt10:hover {
+  background-color: brown;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  cursor: wait;
+  font-size: 16px;
+  margin-top: 4px;
+  margin-left: 20px;
+  margin-bottom: 4px;
+  margin-right: 10px;
+  padding: 14px 40px;
+}
